@@ -66,7 +66,7 @@ public class MyPanel extends JPanel {
         add (stackSize);
         add (stackSizelbl);
 
-        //размеры компонентов
+        //components size
         test.setBounds(350,5,580,535);
         jcomp1.setBounds (350, 5, 580, 535);
         uploadStack.setBounds (10, 20, 120, 25);
